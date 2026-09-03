@@ -1,4 +1,4 @@
 # first_demo
-<h1>This is My First Git Repository.</h1>  
+This is My First Git Repository. 
 <br>
 Author - Danish
